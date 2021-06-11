@@ -43563,7 +43563,7 @@ F.wZ.prototype={
 M:function(a,b){var s=null,r=X.PY(s,C.a1,s,s,s).a6,q=B.dI(r.a),p=B.dI(r.b),o=B.dI(r.c),n=B.dI(r.d),m=B.dI(r.e),l=B.dI(r.f),k=B.dI(r.r),j=B.dI(r.x),i=B.dI(r.y),h=B.dI(r.z),g=B.dI(r.Q),f=B.dI(r.ch)
 return new S.pf(new Y.wf(s),"Portfolio",X.PY(C.l,s,C.w1,R.Xx(i,h,f,g,q,p,o,n,m,l,B.dI(r.cx),k,j),X.a7w()),!1,s)}}
 D.wR.prototype={
-M:function(a,b){var s,r,q,p=null,o=$.Yz(),n=L.Xv("Competitive Programming Handles",p,p,p,p,p,p,p,p,p,p,2.2),m=t.t,l=H.c([new D.ew("LeetCode","https://leetcode.com/anil111/",p),new D.ew("Geeks For Geeks","https://auth.geeksforgeeks.org/user/anilparmar/practice/",p),new D.ew("Stop Talk","https://www.stopstalk.com/user/profile/anil_111",p),new D.ew("Codeforces","https://codeforces.com/profile/anil_111",p),new D.ew("Codechef","https://www.codechef.com/users/anilp_111",p),new D.ew("HackerEarth","https://www.hackerearth.com/@anilparmar76983",p)],m),k=new V.dK(F.aK(b,!1)).gex()===C.aL?0.75:0.4
+M:function(a,b){var s,r,q,p=null,o=$.Yz(),n=L.Xv("Competitive Programming Handles",p,p,p,p,p,p,p,p,p,p,2.2),m=t.t,l=H.c([new D.ew("LeetCode","https://leetcode.com/anil111/",p),new D.ew("Geeks For Geeks","https://auth.geeksforgeeks.org/user/anilparmar/practice/",p),new D.ew("StopStalk","https://www.stopstalk.com/user/profile/anil_111",p),new D.ew("Codeforces","https://codeforces.com/profile/anil_111",p),new D.ew("Codechef","https://www.codechef.com/users/anilp_111",p),new D.ew("HackerEarth","https://www.hackerearth.com/@anilparmar76983",p)],m),k=new V.dK(F.aK(b,!1)).gex()===C.aL?0.75:0.4
 k=T.WO(T.WG(H.c([E.a07(!0,P.cZ(0,0,1),!0,170,l,C.k,k)],m),C.ba,p,C.aA,C.hs))
 l=L.Xv("Projects",p,p,p,p,p,p,p,p,p,p,2.2)
 s=H.c([new D.ew("Governmwnt Helping System","https://github.com/anilparmar111/Government-Helping-System",p),
