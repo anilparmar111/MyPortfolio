@@ -43473,7 +43473,7 @@ j.bQ$=$.Yy()
 e=H.c([new X.A5(new F.eL(r,C.aA,C.ba,C.bm,h),new T.d5(C.da,new T.qU(p,h,C.d1,!0,new T.aI((o.a-(s.a+q.c))/100*60,h,new F.eL(n,C.oF,C.ba,C.bm,h),h),h),h),h),new T.aI(h,50,h,h),new A.o9(h),new T.aI(h,10,h,h),new M.kM(h,new Q.eI(f,k,h,l),h,m,!0,h,h,h),new T.aI(h,10,h,h),new A.ze(h),new T.aI(h,30,h,h),N.ZZ(H.c([i.bm(),new T.aI(10,h,h,h),L.oN(C.ux,$.Yy(),14)],e),C.ba)],e)
 return new T.d5(C.da,new T.aI(F.aK(b,!1).a.a,h,new F.eL(e,C.aA,C.ba,C.bm,h),h),h)}}
 N.IM.prototype={
-$0:function(){T.hX("https://drive.google.com/file/d/1ypIFTZRvCOd08N3PiyBWjXmJ05s00SFZ/view?usp=sharing")},
+$0:function(){T.hX("https://drive.google.com/file/d/1UWWYF_BNuF7xPZSYgwPhQLgmryw4vj6v/view?usp=sharing")},
 $S:0}
 N.IN.prototype={
 $0:function(){T.hX("https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=anilparmar76983@gmail.com")},
@@ -43563,10 +43563,14 @@ F.wZ.prototype={
 M:function(a,b){var s=null,r=X.PY(s,C.a1,s,s,s).a6,q=B.dI(r.a),p=B.dI(r.b),o=B.dI(r.c),n=B.dI(r.d),m=B.dI(r.e),l=B.dI(r.f),k=B.dI(r.r),j=B.dI(r.x),i=B.dI(r.y),h=B.dI(r.z),g=B.dI(r.Q),f=B.dI(r.ch)
 return new S.pf(new Y.wf(s),"Portfolio",X.PY(C.l,s,C.w1,R.Xx(i,h,f,g,q,p,o,n,m,l,B.dI(r.cx),k,j),X.a7w()),!1,s)}}
 D.wR.prototype={
-M:function(a,b){var s,r,q,p=null,o=$.Yz(),n=L.Xv("Competitive Programming Handles",p,p,p,p,p,p,p,p,p,p,2.2),m=t.t,l=H.c([new D.ew("Codeforces","https://codeforces.com/profile/anil_111",p),new D.ew("Codechef","https://www.codechef.com/users/anilp_111",p),new D.ew("LeetCode","https://leetcode.com/anil111/",p),new D.ew("HackerEarth","https://www.hackerearth.com/@anilparmar76983",p)],m),k=new V.dK(F.aK(b,!1)).gex()===C.aL?0.75:0.4
+M:function(a,b){var s,r,q,p=null,o=$.Yz(),n=L.Xv("Competitive Programming Handles",p,p,p,p,p,p,p,p,p,p,2.2),m=t.t,l=H.c([new D.ew("LeetCode","https://leetcode.com/anil111/",p),new D.ew("Geeks For Geeks","https://auth.geeksforgeeks.org/user/anilparmar/practice/",p),new D.ew("Stop Talk","https://www.stopstalk.com/user/profile/anil_111",p),new D.ew("Codeforces","https://codeforces.com/profile/anil_111",p),new D.ew("Codechef","https://www.codechef.com/users/anilp_111",p),new D.ew("HackerEarth","https://www.hackerearth.com/@anilparmar76983",p)],m),k=new V.dK(F.aK(b,!1)).gex()===C.aL?0.75:0.4
 k=T.WO(T.WG(H.c([E.a07(!0,P.cZ(0,0,1),!0,170,l,C.k,k)],m),C.ba,p,C.aA,C.hs))
 l=L.Xv("Projects",p,p,p,p,p,p,p,p,p,p,2.2)
-s=H.c([new D.ew("Governmwnt Helping System","https://github.com/anilparmar111/Government-Helping-System",p),new D.ew("Online NoticeBoard","https://github.com/anilparmar111/Online-Noticeboard-django",p)],m)
+s=H.c([new D.ew("Governmwnt Helping System","https://github.com/anilparmar111/Government-Helping-System",p),
+new D.ew("Zenith Sales(Real Word Client Project)","https://github.com/anilparmar111/ZenithSales",p),
+new D.ew("Bank Search Application","https://github.com/anilparmar111/Fyle-bank",p),
+new D.ew("Social Media Platform(Like LinkedIn)","https://github.com/anilparmar111/Engineering_Student_Helping_system/tree/master",p),
+new D.ew("Online NoticeBoard","https://github.com/anilparmar111/Online-Noticeboard-django",p)],m)
 r=new V.dK(F.aK(b,!1)).gex()===C.aL?0.75:0.4
 q=new V.dK(F.aK(b,!1)).gex()===C.aL&&!0
 m=T.a5J(H.c([n,new T.aI(p,10,p,p),k,new T.aI(p,80,p,p),l,new T.aI(p,10,p,p),T.WO(T.WG(H.c([E.a07(q,P.cZ(0,0,1),!0,170,s,C.k,r)],m),C.ba,p,C.aA,C.hs))],m),C.ba,C.m,p,C.aA,C.hs,C.t,p,C.kw)
